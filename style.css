@@ -32,8 +32,8 @@ body{
     border-radius: 10px;
     font-size: 8vmin;
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
-    color: #d92929;
-    background-color:whitesmoke
+    color: #CD5C08;
+    background-color:;
 }
 
 #reset-btn{
@@ -72,4 +72,11 @@ body{
   
   .hide {
     display: none;
+  }
+
+  footer{
+    color: rgb(47, 61, 122);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-align: bottom;
   }
