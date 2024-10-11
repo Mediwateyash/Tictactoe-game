@@ -5,7 +5,7 @@
 }
 body{
     text-align: center;
-    background-color: aqua;
+    background-color: #257180;
 }
 
 .container{
@@ -32,7 +32,8 @@ body{
     border-radius: 10px;
     font-size: 8vmin;
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
-    color: red;
+    color: #d92929;
+    background-color:whitesmoke
 }
 
 #reset-btn{
@@ -43,7 +44,7 @@ body{
     margin-top: 1rem;
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
     cursor: pointer;
-    background-color: yellowgreen;
+    background-color: #F2E5BF;
 }
 
 #new-btn {
