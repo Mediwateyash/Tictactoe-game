@@ -79,3 +79,10 @@ body{
     margin-bottom: 1rem;
     text-align: bottom;
   }
+
+  footer a {
+    color: rgb(47, 61, 122);  
+    text-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    
+  }
